@@ -6,6 +6,8 @@ topics: ["AI", "Claude", "LLM", "AIエージェント", "ガバナンス"]
 published: true
 ---
 
+![Claude Fable 5復活とAIモデルガバナンス](/images/claude-fable-return-ai-governance-ogp.png)
+
 ## はじめに
 
 報道ベースではあるが、Anthropicの高性能モデル **Claude Fable 5** と **Claude Mythos 5** をめぐるアクセス制限が解除され、順次復旧に向かうとされている。
@@ -269,3 +271,10 @@ Fable 5の復活は、そのことをかなり分かりやすく見せた。
 - Business Insider: Anthropic to restore access to Fable 5 after negotiations with White House
 - Axios: Anthropic debuts Sonnet 5 for everyday work
 - arXiv: A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models
+
+## 作業ログ
+
+### 2026-07-01T15:51:48.092Z Codex Zenn投稿
+
+- Zenn連携リポジトリへ同期し、commitまで完了。GitHub Desktopでpush待ち。
+- target: /Users/icloud/zenn-content/articles/claude-fable-return-ai-governance.md
