@@ -85,10 +85,3 @@ published: true
 次回③では、AIが平気でつく"それっぽい嘘"（実際に、存在しないPDFのURLを自信満々に作ってきた話）と、それを**仕組みで防ぐ設計**を書きます。
 
 > **次はこちら →** ③ AIのハルシネーションとどう付き合うか（近日公開）
-
-## 作業ログ
-
-### 2026-07-04T17:26:09.960Z Codex Zenn投稿
-
-- Zenn連携リポジトリへ同期し、commitまで完了。GitHub Desktopでpush待ち。
-- target: /Users/icloud/zenn-content/articles/ai-external-brain-obsidian.md
