@@ -271,3 +271,10 @@ Fable 5の復活は、そのことをかなり分かりやすく見せた。
 - Business Insider: Anthropic to restore access to Fable 5 after negotiations with White House
 - Axios: Anthropic debuts Sonnet 5 for everyday work
 - arXiv: A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models
+
+## 作業ログ
+
+### 2026-07-01T15:51:48.092Z Codex Zenn投稿
+
+- Zenn連携リポジトリへ同期し、commitまで完了。GitHub Desktopでpush待ち。
+- target: /Users/icloud/zenn-content/articles/claude-fable-return-ai-governance.md
