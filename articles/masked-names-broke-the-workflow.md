@@ -3,7 +3,7 @@ title: "職員の名前を伏せ字にしたら、制服が配れなくなった
 emoji: "🙈"
 type: "tech"
 topics: ["AI", "セキュリティ", "個人情報", "GAS", "業務改善"]
-published: true
+published: false
 ---
 
 医療機関の事務職として、職員の制服を申し込むWebアプリ（スプレッドシート＋Google Apps Script）を作り、運用しています。

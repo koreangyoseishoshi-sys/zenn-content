@@ -3,7 +3,7 @@ title: "名札のQRを、ログインや入室の鍵に使ってはいけない�
 emoji: "🪪"
 type: "tech"
 topics: ["AI", "セキュリティ", "QRコード", "設計", "GAS"]
-published: true
+published: false
 ---
 
 職員の名札にQRコードを載せる仕組みを作っています。研修会や会議の出席を、会場のパソコンでQRを読むだけで記録するためです。
