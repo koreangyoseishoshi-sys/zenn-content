@@ -3,7 +3,7 @@ title: "Gemini 4 Argonをどこで・いくらで使えるか──提供範囲�
 emoji: "🧪"
 type: "tech"
 topics: ["AI", "Gemini", "GoogleAI", "LLM", "Antigravity"]
-published: true
+published: false
 ---
 
 Google の Gemini 4 Argon が、2026年10月13日に一般公開されました。
