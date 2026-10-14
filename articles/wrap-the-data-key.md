@@ -181,3 +181,8 @@ async function changePassword(oldPw, newPw, salt, wrapped) {
 - 包みは何通りでも持てる。管理者ごと、端末ごとに包めば、毎日の手間なしで追加や交代に対応できる
 - パスワードからは「包む鍵」と「確認用の値」を分けて作り、サーバーには包む鍵を渡さない
 - 回数制限は、守りたい処理が必ず通る共通の部品に置く
+
+### 2026-10-14 ナギ：確認前に公開された
+
+- frontmatter に `published: true` を書いていたため、`zenn_publish.js`（150行目）が承認前に commit → User が Gemini 記事の push をしたときに一緒に公開された
+- User 判断＝このまま公開（2026-10-14）。公開版は vault 最新版と本文差分0を確認
