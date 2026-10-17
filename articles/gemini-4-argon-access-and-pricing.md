@@ -1,5 +1,5 @@
 ---
-title: "Gemini 4 ArgonがAntigravityに出てこない理由と、料金・使えるプラン"
+title: "Gemini 4 Argonはどのプランで使えるのか。料金と「100万トークン」の本当の意味"
 emoji: "🧪"
 type: "tech"
 topics: ["AI", "Gemini", "GoogleAI", "LLM", "Antigravity"]
