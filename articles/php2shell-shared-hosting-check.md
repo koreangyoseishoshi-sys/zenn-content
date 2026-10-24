@@ -129,3 +129,4 @@ WordPress をメンテナンスモードにして様子を見る、という案�
 - エックスサーバー「予防的な安全対策に伴う公式サイト・管理画面等の一時停止のお知らせ」（進捗は2026年10月22日6:45時点）：https://www.xserver.ne.jp/information_detail.php?view_id=19660
 - WordPress.org「PHP バージョンの更新」：https://ja.wordpress.org/support/update-php/
 - ITmedia NEWS「PHPの『緊急』レベルの脆弱性、開発元が修正バージョン公開」（2026年10月22日）：https://www.itmedia.co.jp/news/article/2610/22/2000002480/
+
