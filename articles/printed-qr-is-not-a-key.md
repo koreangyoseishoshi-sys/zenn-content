@@ -3,7 +3,7 @@ title: "QRコードはなぜログインの鍵にならないのか。写真1枚
 emoji: "🪪"
 type: "tech"
 topics: ["AI", "セキュリティ", "QRコード", "設計", "GAS"]
-published: false
+published: true
 ---
 
 職員の名札にQRコードを載せる仕組みを作っています。研修会や会議の出席を、会場のパソコンでQRを読むだけで記録するためです。
