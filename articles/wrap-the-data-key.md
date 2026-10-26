@@ -3,7 +3,7 @@ title: "パスワードを変えたら、暗号化したデータはどうなる
 emoji: "🔑"
 type: "tech"
 topics: ["AI", "セキュリティ", "暗号化", "WebCrypto", "GAS"]
-published: false
+published: true
 ---
 
 個人情報を暗号化して保存する仕組みを作ると、最初に思いつくのは「管理者パスワードから鍵を作って、そのまま名前を暗号化する」形です。
